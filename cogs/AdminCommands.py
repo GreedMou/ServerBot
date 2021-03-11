@@ -3,7 +3,6 @@ import valve.rcon
 
 from discord.ext import commands
 from steamid import SteamID
-from discord_slash import SlashCommand
 
 valve.rcon.RCONMessage.ENCODING = "utf-8"
 
